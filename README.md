@@ -8,11 +8,11 @@
 
   Me chamo _Micael Brayan_.
   
-  Sou um desenvolvedor **frontend** com experiência em **backend**. Autodidata, estou sempre ansioso por aprender e enfrentar novos desafios. Sou também apaixonado por astronomia, arte, matemática e claro, uma boa xicará de café ☕.
+  Sou um desenvolvedor **Full Stack** e estou sempre ansioso para aprender e enfrentar novos desafios. Sou também apaixonado por astronomia, arte, matemática e claro, uma boa xicará de café. ☕
   
   Minha jornada começou perto de 2015, enquanto eu aprendia a desenvolver jogos por pura diversão. Ali descobri minha paixão por códigos e conheci alguns dos principais pilares da programação.
   
-  Atualmente, estou em transição de carreira, explorando também oportunidades como **freelancer**. Como desenvolvedor web, adoto metodologias ágeis, especialmente o **Kanban**. E comprometido com a qualidade do código, sigo princípios como o **SOLID** e pratico o **TDD**.
+  Atualmente, estou em transição de carreira, explorando também oportunidades como **freelancer**. Como desenvolvedor web, adoto metodologias ágeis como o **Kanban**. E comprometido com a qualidade do código, sigo princípios como o **SOLID** e pratico o **TDD**.
   
   Tenho experiência com **Sass**, **JavaScript**, **TypeScript**, **Node** e **Express**. Já trabalhei com integração de banco de dados com o **PostgreSQL**. Com consumo e desenvolvimento de **APIs**. Testes de únidade e de integração com **Jest**. Além de versionamento com **Git** e criação de design com **Figma**.
   
