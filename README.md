@@ -6,17 +6,15 @@
 
 <img align='right' width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBrayanS&layout=compact&hide_border=true&custom_title=Linguagens%20utilizadas&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
-  Me chamo _Micael Brayan_.
-  
-  Sou um desenvolvedor **Full Stack** e estou sempre ansioso para aprender e enfrentar novos desafios. Sou também apaixonado por astronomia, arte, matemática e claro, uma boa xicará de café. ☕
-  
-  Minha jornada começou perto de 2015, enquanto eu aprendia a desenvolver jogos por pura diversão. Ali descobri minha paixão por códigos e conheci alguns dos principais pilares da programação.
-  
-  Atualmente, estou em transição de carreira, explorando também oportunidades como **freelancer**. Como desenvolvedor web, adoto metodologias ágeis como o **Kanban**. E comprometido com a qualidade do código, sigo princípios como o **SOLID** e pratico o **TDD**.
-  
-  Tenho experiência com **Sass**, **JavaScript**, **TypeScript**, **Node** e **Express**. Já trabalhei com integração de banco de dados com o **PostgreSQL**. Com consumo e desenvolvimento de **APIs**. Testes de únidade e de integração com **Jest**. Além de versionamento com **Git** e criação de design com **Figma**.
-  
-  Estou sempre focado em escrever códigos escaláveis e desenvolver interfaces pensadas na experiência do usuário.
+Oi! Eu sou _Micael Brayan_, uma pessoa curiosa, apaixonada por tecnologia, desenvolvimento e tudo que envolve criatividade e aprendizado.
+
+Minha história com programação começou lá em 2015, quando, por pura diversão, eu tentava criar alguns jogos. Nem imaginava que aquilo se transformaria na minha profissão — e, mais do que isso, em algo que realmente me encanta até hoje.
+
+Atualmente, trabalho como desenvolvedor full-stack na [Terra Viva](https://www.terraviva.agr.br), uma empresa do setor agrícola, onde ajudo a transformar necessidades internas em soluções digitais. Nosso time desenvolve aplicações que vão desde a otimização de processos até a criação de ferramentas para atender demandas completamente novas.
+
+O que mais me motiva no dia a dia é poder participar de todo o ciclo dos projetos — da idealização e planejamento, passando pelas discussões técnicas, até, claro, o desenvolvimento em si. Ter essa liberdade de explorar, propor soluções e construir de forma colaborativa é algo que valorizo muito.
+
+Gosto de aprender, de explorar coisas novas e de fazer tudo isso com uma boa xícara de café do lado. Também carrego comigo uma paixão enorme por astronomia, arte e matemática — coisas que, de um jeito ou de outro, sempre acabam cruzando meu caminho.
 
 <br>
 
